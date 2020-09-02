@@ -15,7 +15,7 @@ dependencies:
   numberpicker: ^1.2.0
   flutter_advanced_networkimage: 
     git: 
-      url: https://github.com/mchome/flutter_advanced_networkimage.git0
+      url: https://github.com/mchome/flutter_advanced_networkimage.git
 
 flutter:
   plugin:
